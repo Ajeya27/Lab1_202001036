@@ -27,7 +27,6 @@ Functional Requirements:<br />
 3.Allows the librarian to enter new records and remove records from the system.<br />
 4.Allows non-members to browse and search books online.<br />
 5.Restricts issuing and returning books to valid members only.<br />
-6.Delivers a web application using HTML 5.<br />
 <br />
 Non Functional Requirements:<br />
 1.Should be scalable to incorporate the increasing size of institute.<br />
@@ -35,6 +34,7 @@ Non Functional Requirements:<br />
 3.Ensures that confidential information (e.g. passwords) is not stored in plain text for security reasons.<br />
 4.Reduce the security risk of the software.<br />
 5.Runs only within the institute LAN.<br />
+6.Delivers a web application using HTML 5.<br />
 <br />
 #Q2 Identify scope, features and non-functional aspects of the following problem.<br />
 Approximately 5% of the world population (or a staggering 466 million people) suffers from
